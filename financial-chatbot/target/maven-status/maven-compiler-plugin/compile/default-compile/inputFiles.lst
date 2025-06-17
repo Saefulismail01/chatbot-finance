@@ -1,0 +1,7 @@
+/media/saeful/Data/EKSTERNAL/ENIGMA-CAMP/READY-FOR-INDUSTRY/mandiriv2/financial-chatbot/src/main/java/com/finance/chatbot/config/GeminiConfig.java
+/media/saeful/Data/EKSTERNAL/ENIGMA-CAMP/READY-FOR-INDUSTRY/mandiriv2/financial-chatbot/src/main/java/com/finance/chatbot/dto/ChatRequest.java
+/media/saeful/Data/EKSTERNAL/ENIGMA-CAMP/READY-FOR-INDUSTRY/mandiriv2/financial-chatbot/src/main/java/com/finance/chatbot/controller/ChatbotController.java
+/media/saeful/Data/EKSTERNAL/ENIGMA-CAMP/READY-FOR-INDUSTRY/mandiriv2/financial-chatbot/src/main/java/com/finance/chatbot/dto/ChatResponse.java
+/media/saeful/Data/EKSTERNAL/ENIGMA-CAMP/READY-FOR-INDUSTRY/mandiriv2/financial-chatbot/src/main/java/com/finance/chatbot/FinancialChatbotApplication.java
+/media/saeful/Data/EKSTERNAL/ENIGMA-CAMP/READY-FOR-INDUSTRY/mandiriv2/financial-chatbot/src/main/java/com/finance/chatbot/service/ChatService.java
+/media/saeful/Data/EKSTERNAL/ENIGMA-CAMP/READY-FOR-INDUSTRY/mandiriv2/financial-chatbot/src/main/java/com/finance/chatbot/service/impl/GeminiChatServiceImpl.java
